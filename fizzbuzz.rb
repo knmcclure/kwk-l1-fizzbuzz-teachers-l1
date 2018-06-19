@@ -1,7 +1,8 @@
 def fizzbuzz(int)
   if int%3==0
     puts "Fizzzzzzzzzzzzzzzzzz"
-  elsif 
+  elsif int%5 == 0
+    puts "Buzzzzzzzzzzzzzzz"
   end
 end
 
