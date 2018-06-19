@@ -1,5 +1,7 @@
 def fizzbuzz(int)
-  if 
+  if int%3==0
+    puts "Fizzzzzzzzzzzzzzzzzz"
+  end
 end
 
 fizzbuzz(8)
